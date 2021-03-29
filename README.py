@@ -1,10 +1,11 @@
 # Module-11
 #covid
+
 import pandas as pd
 import plotly.express
 
 #load data
-data = pd.read_excel("C:/Users/Bunnita/Desktop/Coding/Plotly Express Pasta/COVID19_data.xlsx")
+data = pd.read_excel("C:/Users/michele/Desktop/temp/COVID19_data.xlsx")
 
 import dash
 import dash_core_components as dcc
