@@ -45,7 +45,7 @@ import requests
 import pandas as pd
 import os
 import fitz #best pdf reader in the land. pip install pymupdf
-os.chdir("C:/Users/Michele/Desktop/temp")
+os.chdir("C:/Users/Michelle/Desktop/temp")
 
 url = "https://www.berkshirehathaway.com/letters/letters.html"
 
